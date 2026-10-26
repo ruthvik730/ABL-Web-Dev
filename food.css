@@ -1,0 +1,45 @@
+
+body {
+    background-color: #fff3e0;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    background-color: #d84315;
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    color: #bf360c;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    background-color: white;
+    border: 2px solid orange;
+    padding: 15px;
+    margin: 10px;
+    width: 200px;
+}
+
+img {
+    width: 180px;
+    height: 120px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+
+p {
+    color: #333333;
+}
